@@ -1,2 +1,4 @@
-## next time log out
-# pozdro z sali informatycznej (chyba 211) :)
+siema
+witam was serdecznie
+ej jak ktoś się włąmie na mój komputer to napiszciue cos tu pls
+

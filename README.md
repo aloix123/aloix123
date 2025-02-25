@@ -1,4 +1,6 @@
 
-witam was serdecznie
+Welcome to my github!!
+
+make sure to follow!!
 
 

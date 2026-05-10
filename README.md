@@ -9,6 +9,6 @@ Frameworks & Tools: Spring, Hibernate, Flask, JUnit, Git, Maven
 
 Databases: PostgreSQL, MongoDB
 
-📫 Let's connect: [https://www.linkedin.com/in/pawe%C5%82-kupis/]
+📫 Let's connect: https://www.linkedin.com/in/pawe%C5%82-kupis/
 
 

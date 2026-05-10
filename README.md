@@ -1,6 +1,6 @@
 ### Hi there, I'm Paweł! 👋
 
-I'm a 3rd-year Teleinformatics student at AGH UST and a Junior Java Developer with nearly a year of commercial experience. I enjoy building solid backend architectures, designing APIs, and have hands-on experience migrating systems to Java 21.
+I'm a 3rd-year Teleinformatics student at AGH UST and a Junior Java Developer with nearly a year of commercial experience. I enjoy building solid backend architectures, designing APIs.
 
 ## 🛠️ Tech Stack
 
